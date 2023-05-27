@@ -14,6 +14,10 @@
 ## Description 📢
 This repository contains a collection of PowerShell scripts that I have written to automate various tasks. I will continue to add to this repository as I write more scripts. Feel free to use these scripts as you see fit. If you have any questions or comments, please feel free to create an issue or contact me directly. 📝📨
 
+
+##❗Important: 
+**Read the scripts before running them as some scripts contain absolute paths to directories that you will have to change before running them**
+
 ## Usage 📋
 1. To use these scripts, simply download the repository.
 2. Add the repository to your PATH
